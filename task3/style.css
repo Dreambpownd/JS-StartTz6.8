@@ -1,0 +1,24 @@
+#trafficLightTop {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: black;
+  }
+  #trafficLightMid {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: black;
+  }
+  #trafficLightBot {
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    background: black;
+  }

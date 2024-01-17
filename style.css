@@ -1,0 +1,91 @@
+header{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background: url("https://kartinki.pics/uploads/posts/2022-07/1657660490_3-kartinkin-net-p-krasivie-geometricheskie-figuri-kartinki-3.png") bottom no-repeat;
+    background-size: cover; 
+}
+
+main{
+    text-align: center;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 4em;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.705);
+    -webkit-text-stroke-width: 0.1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+a, #consoleLog, #funcAlert, #funcPrompt {   
+    
+    background-color: #3058ddc2;  
+    border: 2px solid black;
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:rgb(4, 8, 12);
+    border-radius: 5px;
+}
+#consoleLog, #funcAlert, #funcPrompt {
+    display:inline;
+
+}
+#but{
+    background-color: #6185fac2;
+    border: 2px solid black;
+    font-weight: 300;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+a:hover, #but:hover {
+  background-color: #ffffff;
+}
+
+#firstPageP{
+    align-items: center;
+    font-size: 2em;
+}
+
+footer{
+    color: #636b6f;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    text-align: center;
+}
+footer {
+    margin-top: 5px;
+    margin-bottom: 50px;
+
+}
+#consoleLog {
+    cursor: pointer;
+}
+
+#funcAlert {
+    cursor: pointer;
+}
+
+#funcPrompt {
+    cursor: pointer;
+}
+span {
+    display: block;
+    padding-top: 90px;
+}
